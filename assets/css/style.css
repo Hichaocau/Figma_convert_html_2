@@ -232,6 +232,7 @@ section {
 
 .slider__list-item--img{
     border-radius: 24px;
+    overflow: hidden;
 }
 
 .first{
@@ -350,6 +351,7 @@ section {
 
 .collections__item-img--item {
     margin-bottom: 12px;
+    overflow: hidden;
 }
 
 .collections__item-img--item img{
